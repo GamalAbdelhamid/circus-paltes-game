@@ -1,0 +1,427 @@
+2017-01-26 05:11:48 INFO  Layer:38 - a plate is catched
+2017-01-26 05:11:51 INFO  Layer:38 - a plate is catched
+2017-01-26 05:11:55 INFO  Layer:38 - a plate is catched
+2017-01-26 05:11:56 INFO  Layer:38 - a plate is catched
+2017-01-26 05:11:59 INFO  Layer:38 - a plate is catched
+2017-01-26 05:12:02 INFO  Layer:38 - a plate is catched
+2017-01-26 05:23:17 INFO  Layer:19 - level is easy
+2017-01-26 05:23:17 DEBUG Layer:16 - left1 created successfully
+2017-01-26 05:23:17 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 05:23:17 DEBUG Layer:16 - left2 created successfully
+2017-01-26 05:23:17 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 05:23:17 DEBUG Layer:16 - left3 created successfully
+2017-01-26 05:23:17 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 05:23:25 INFO  Layer:19 - level is easy
+2017-01-26 08:13:14 INFO  Layer:19 - level is medium
+2017-01-26 08:13:14 INFO  Layer:17 - level is easy
+2017-01-26 08:13:14 DEBUG Layer:16 - left1 created successfully
+2017-01-26 08:13:14 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 08:13:14 DEBUG Layer:16 - left2 created successfully
+2017-01-26 08:13:14 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 08:13:14 DEBUG Layer:16 - left3 created successfully
+2017-01-26 08:13:14 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 08:13:30 DEBUG Layer:60 - a plate is added
+2017-01-26 08:13:30 INFO  Layer:19 - level is medium
+2017-01-26 08:13:33 DEBUG Layer:60 - a plate is added
+2017-01-26 08:13:36 DEBUG Layer:60 - a plate is added
+2017-01-26 08:13:39 DEBUG Layer:60 - a plate is added
+2017-01-26 08:13:42 INFO  Layer:35 - a plate is catched
+2017-01-26 08:13:43 DEBUG Layer:60 - a plate is added
+2017-01-26 08:13:44 INFO  Layer:39 - a plate is catched
+2017-01-26 08:13:45 INFO  Layer:35 - a plate is catched
+2017-01-26 08:13:46 DEBUG Layer:60 - a plate is added
+2017-01-26 08:13:47 INFO  Layer:39 - a plate is catched
+2017-01-26 08:13:47 INFO  Layer:34 - a plate is catched
+2017-01-26 08:13:49 INFO  Layer:35 - a plate is catched
+2017-01-26 08:13:49 DEBUG Layer:60 - a plate is added
+2017-01-26 08:13:51 INFO  Layer:39 - a plate is catched
+2017-01-26 08:13:52 INFO  Layer:39 - a plate is catched
+2017-01-26 08:13:53 DEBUG Layer:60 - a plate is added
+2017-01-26 08:13:55 INFO  Layer:39 - a plate is catched
+2017-01-26 08:13:57 DEBUG Layer:60 - a plate is added
+2017-01-26 08:13:59 INFO  Layer:39 - a plate is catched
+2017-01-26 08:14:00 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:00 INFO  Layer:34 - a plate is catched
+2017-01-26 08:14:03 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:03 INFO  Layer:34 - a plate is catched
+2017-01-26 08:14:05 INFO  Layer:39 - a plate is catched
+2017-01-26 08:14:05 INFO  Layer:35 - a plate is catched
+2017-01-26 08:14:06 INFO  Layer:34 - a plate is catched
+2017-01-26 08:14:08 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:09 INFO  Layer:39 - a plate is catched
+2017-01-26 08:14:11 INFO  Layer:40 - a plate is catched
+2017-01-26 08:14:11 INFO  Layer:39 - a plate is catched
+2017-01-26 08:14:11 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:15 INFO  Layer:39 - a plate is catched
+2017-01-26 08:14:15 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:15 INFO  Layer:35 - a plate is catched
+2017-01-26 08:14:18 INFO  Layer:39 - a plate is catched
+2017-01-26 08:14:18 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:18 INFO  Layer:35 - a plate is catched
+2017-01-26 08:14:21 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:22 INFO  Layer:40 - a plate is catched
+2017-01-26 08:14:24 INFO  Layer:35 - a plate is catched
+2017-01-26 08:14:24 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:26 INFO  Layer:40 - a plate is catched
+2017-01-26 08:14:29 INFO  Layer:39 - a plate is catched
+2017-01-26 08:14:29 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:32 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:32 INFO  Layer:39 - a plate is catched
+2017-01-26 08:14:34 INFO  Layer:36 - a plate is catched
+2017-01-26 08:14:34 INFO  Layer:40 - a plate is catched
+2017-01-26 08:14:36 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:36 INFO  Layer:34 - a plate is catched
+2017-01-26 08:14:37 INFO  Layer:39 - a plate is catched
+2017-01-26 08:14:38 INFO  Layer:39 - a plate is catched
+2017-01-26 08:14:40 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:40 INFO  Layer:36 - a plate is catched
+2017-01-26 08:14:40 INFO  Layer:40 - a plate is catched
+2017-01-26 08:14:42 INFO  Layer:40 - a plate is catched
+2017-01-26 08:14:46 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:46 INFO  Layer:34 - a plate is catched
+2017-01-26 08:14:47 INFO  Layer:36 - a plate is catched
+2017-01-26 08:14:50 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:50 INFO  Layer:40 - a plate is catched
+2017-01-26 08:14:52 INFO  Layer:40 - a plate is catched
+2017-01-26 08:14:53 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:55 INFO  Layer:40 - a plate is catched
+2017-01-26 08:14:56 DEBUG Layer:60 - a plate is added
+2017-01-26 08:14:57 INFO  Layer:40 - a plate is catched
+2017-01-26 08:14:59 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:00 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:02 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:03 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:04 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:06 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:09 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:09 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:13 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:14 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:17 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:17 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:20 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:20 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:21 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:24 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:25 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:28 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:30 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:32 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:33 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:36 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:37 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:39 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:40 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:42 INFO  Layer:34 - a plate is catched
+2017-01-26 08:15:43 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:44 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:44 INFO  Layer:34 - a plate is catched
+2017-01-26 08:15:45 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:46 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:48 INFO  Layer:34 - a plate is catched
+2017-01-26 08:15:50 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:51 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:51 INFO  Layer:34 - a plate is catched
+2017-01-26 08:15:53 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:54 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:54 INFO  Layer:34 - a plate is catched
+2017-01-26 08:15:56 INFO  Layer:19 - level is hard
+2017-01-26 08:15:56 DEBUG Layer:60 - a plate is added
+2017-01-26 08:15:57 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:57 INFO  Layer:36 - a plate is catched
+2017-01-26 08:15:58 INFO  Layer:40 - a plate is catched
+2017-01-26 08:15:59 INFO  Layer:35 - a plate is catched
+2017-01-26 08:15:59 DEBUG Layer:60 - a plate is added
+2017-01-26 08:16:02 INFO  Layer:40 - a plate is catched
+2017-01-26 08:16:02 INFO  Layer:34 - a plate is catched
+2017-01-26 08:16:04 INFO  Layer:40 - a plate is catched
+2017-01-26 08:16:05 INFO  Layer:34 - a plate is catched
+2017-01-26 08:16:05 DEBUG Layer:60 - a plate is added
+2017-01-26 08:16:07 INFO  Layer:40 - a plate is catched
+2017-01-26 08:16:08 DEBUG Layer:60 - a plate is added
+2017-01-26 08:16:10 INFO  Layer:40 - a plate is catched
+2017-01-26 08:16:11 DEBUG Layer:60 - a plate is added
+2017-01-26 08:16:13 INFO  Layer:40 - a plate is catched
+2017-01-26 08:16:14 DEBUG Layer:60 - a plate is added
+2017-01-26 11:08:02 INFO  Layer:19 - level is medium
+2017-01-26 11:08:02 INFO  Layer:17 - level is easy
+2017-01-26 11:08:02 DEBUG Layer:16 - left1 created successfully
+2017-01-26 11:08:02 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 11:08:02 DEBUG Layer:16 - left2 created successfully
+2017-01-26 11:08:02 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 11:08:02 DEBUG Layer:16 - left3 created successfully
+2017-01-26 11:08:02 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 11:09:06 INFO  Layer:19 - level is medium
+2017-01-26 11:09:06 INFO  Layer:17 - level is easy
+2017-01-26 11:09:06 DEBUG Layer:16 - left1 created successfully
+2017-01-26 11:09:06 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 11:09:06 DEBUG Layer:16 - left2 created successfully
+2017-01-26 11:09:06 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 11:09:06 DEBUG Layer:16 - left3 created successfully
+2017-01-26 11:09:06 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 11:09:15 INFO  Layer:19 - level is medium
+2017-01-26 11:09:18 DEBUG Layer:60 - a plate is added
+2017-01-26 11:09:21 DEBUG Layer:60 - a plate is added
+2017-01-26 11:09:24 DEBUG Layer:60 - a plate is added
+2017-01-26 11:09:27 DEBUG Layer:60 - a plate is added
+2017-01-26 11:09:31 DEBUG Layer:60 - a plate is added
+2017-01-26 11:09:34 DEBUG Layer:60 - a plate is added
+2017-01-26 11:09:35 INFO  Layer:38 - a plate is catched
+2017-01-26 11:09:36 INFO  Layer:36 - a plate is catched
+2017-01-26 11:09:37 DEBUG Layer:60 - a plate is added
+2017-01-26 11:09:38 INFO  Layer:38 - a plate is catched
+2017-01-26 11:09:40 DEBUG Layer:60 - a plate is added
+2017-01-26 11:09:43 DEBUG Layer:60 - a plate is added
+2017-01-26 11:09:44 INFO  Layer:35 - a plate is catched
+2017-01-26 11:09:47 DEBUG Layer:60 - a plate is added
+2017-01-26 11:09:50 DEBUG Layer:60 - a plate is added
+2017-01-26 11:10:51 INFO  Layer:19 - level is medium
+2017-01-26 11:10:51 INFO  Layer:17 - level is easy
+2017-01-26 11:10:51 DEBUG Layer:16 - left1 created successfully
+2017-01-26 11:10:51 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 11:10:51 DEBUG Layer:16 - left2 created successfully
+2017-01-26 11:10:51 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 11:10:51 DEBUG Layer:16 - left3 created successfully
+2017-01-26 11:10:51 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 11:11:00 INFO  Layer:19 - level is medium
+2017-01-26 11:11:03 DEBUG Layer:60 - a plate is added
+2017-01-26 11:11:06 DEBUG Layer:60 - a plate is added
+2017-01-26 11:11:09 DEBUG Layer:60 - a plate is added
+2017-01-26 11:12:16 INFO  Layer:19 - level is medium
+2017-01-26 11:12:16 INFO  Layer:17 - level is easy
+2017-01-26 11:12:16 DEBUG Layer:16 - left1 created successfully
+2017-01-26 11:12:16 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 11:12:16 DEBUG Layer:16 - left2 created successfully
+2017-01-26 11:12:16 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 11:12:16 DEBUG Layer:16 - left3 created successfully
+2017-01-26 11:12:16 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 11:12:25 INFO  Layer:17 - level is easy
+2017-01-26 11:12:28 DEBUG Layer:60 - a plate is added
+2017-01-26 11:12:31 DEBUG Layer:60 - a plate is added
+2017-01-26 11:12:35 DEBUG Layer:60 - a plate is added
+2017-01-26 11:12:38 DEBUG Layer:60 - a plate is added
+2017-01-26 11:12:41 DEBUG Layer:60 - a plate is added
+2017-01-26 11:12:44 DEBUG Layer:60 - a plate is added
+2017-01-26 11:12:47 DEBUG Layer:60 - a plate is added
+2017-01-26 11:12:48 INFO  Layer:35 - a plate is catched
+2017-01-26 11:12:50 DEBUG Layer:60 - a plate is added
+2017-01-26 11:12:53 INFO  Layer:40 - a plate is catched
+2017-01-26 11:12:53 DEBUG Layer:60 - a plate is added
+2017-01-26 11:12:56 DEBUG Layer:60 - a plate is added
+2017-01-26 11:13:00 DEBUG Layer:60 - a plate is added
+2017-01-26 11:13:01 INFO  Layer:34 - a plate is catched
+2017-01-26 11:13:02 INFO  Layer:35 - a plate is catched
+2017-01-26 11:13:05 DEBUG Layer:60 - a plate is added
+2017-01-26 11:13:07 INFO  Layer:35 - a plate is catched
+2017-01-26 11:13:08 DEBUG Layer:60 - a plate is added
+2017-01-26 11:13:10 INFO  Layer:35 - a plate is catched
+2017-01-26 11:13:11 DEBUG Layer:60 - a plate is added
+2017-01-26 11:13:13 INFO  Layer:35 - a plate is catched
+2017-01-26 11:13:14 DEBUG Layer:60 - a plate is added
+2017-01-26 11:13:17 DEBUG Layer:60 - a plate is added
+2017-01-26 11:13:20 DEBUG Layer:60 - a plate is added
+2017-01-26 11:14:21 INFO  Layer:19 - level is medium
+2017-01-26 11:14:21 INFO  Layer:17 - level is easy
+2017-01-26 11:14:21 DEBUG Layer:16 - left1 created successfully
+2017-01-26 11:14:21 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 11:14:21 DEBUG Layer:16 - left2 created successfully
+2017-01-26 11:14:21 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 11:14:21 DEBUG Layer:16 - left3 created successfully
+2017-01-26 11:14:21 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 11:14:29 INFO  Layer:19 - level is medium
+2017-01-26 11:14:32 DEBUG Layer:60 - a plate is added
+2017-01-26 11:14:35 DEBUG Layer:60 - a plate is added
+2017-01-26 11:14:39 DEBUG Layer:60 - a plate is added
+2017-01-26 11:40:00 INFO  Layer:19 - level is medium
+2017-01-26 11:40:00 INFO  Layer:17 - level is easy
+2017-01-26 11:40:00 DEBUG Layer:16 - left1 created successfully
+2017-01-26 11:40:00 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 11:40:01 DEBUG Layer:16 - left2 created successfully
+2017-01-26 11:40:01 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 11:40:01 DEBUG Layer:16 - left3 created successfully
+2017-01-26 11:40:01 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 11:40:10 INFO  Layer:19 - level is medium
+2017-01-26 11:40:13 DEBUG Layer:60 - a plate is added
+2017-01-26 11:40:16 DEBUG Layer:60 - a plate is added
+2017-01-26 11:40:19 DEBUG Layer:60 - a plate is added
+2017-01-26 11:45:24 INFO  Layer:19 - level is medium
+2017-01-26 11:45:24 INFO  Layer:17 - level is easy
+2017-01-26 11:45:24 DEBUG Layer:16 - left1 created successfully
+2017-01-26 11:45:24 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 11:45:24 DEBUG Layer:16 - left2 created successfully
+2017-01-26 11:45:24 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 11:45:24 DEBUG Layer:16 - left3 created successfully
+2017-01-26 11:45:24 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 11:45:41 INFO  Layer:19 - level is medium
+2017-01-26 11:45:43 DEBUG Layer:60 - a plate is added
+2017-01-26 11:45:47 DEBUG Layer:60 - a plate is added
+2017-01-26 11:45:50 DEBUG Layer:60 - a plate is added
+2017-01-26 11:45:53 DEBUG Layer:60 - a plate is added
+2017-01-26 11:45:56 DEBUG Layer:60 - a plate is added
+2017-01-26 11:45:56 INFO  Layer:39 - a plate is catched
+2017-01-26 11:46:23 INFO  Layer:19 - level is medium
+2017-01-26 11:46:24 INFO  Layer:17 - level is easy
+2017-01-26 11:46:24 DEBUG Layer:16 - left1 created successfully
+2017-01-26 11:46:24 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 11:46:24 DEBUG Layer:16 - left2 created successfully
+2017-01-26 11:46:24 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 11:46:24 DEBUG Layer:16 - left3 created successfully
+2017-01-26 11:46:24 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 11:46:32 INFO  Layer:19 - level is medium
+2017-01-26 11:46:35 DEBUG Layer:60 - a plate is added
+2017-01-26 11:46:38 DEBUG Layer:60 - a plate is added
+2017-01-26 11:46:41 DEBUG Layer:60 - a plate is added
+2017-01-26 11:47:01 INFO  Layer:19 - level is medium
+2017-01-26 11:47:01 INFO  Layer:17 - level is easy
+2017-01-26 11:47:01 DEBUG Layer:16 - left1 created successfully
+2017-01-26 11:47:01 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 11:47:01 DEBUG Layer:16 - left2 created successfully
+2017-01-26 11:47:01 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 11:47:01 DEBUG Layer:16 - left3 created successfully
+2017-01-26 11:47:01 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 11:47:17 INFO  Layer:19 - level is medium
+2017-01-26 11:47:20 DEBUG Layer:60 - a plate is added
+2017-01-26 11:47:24 DEBUG Layer:60 - a plate is added
+2017-01-26 11:47:27 DEBUG Layer:60 - a plate is added
+2017-01-26 11:47:30 DEBUG Layer:60 - a plate is added
+2017-01-26 11:47:33 DEBUG Layer:60 - a plate is added
+2017-01-26 11:52:53 INFO  Layer:19 - level is medium
+2017-01-26 11:52:54 INFO  Layer:17 - level is easy
+2017-01-26 11:52:54 DEBUG Layer:16 - left1 created successfully
+2017-01-26 11:52:54 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 11:52:54 DEBUG Layer:16 - left2 created successfully
+2017-01-26 11:52:54 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 11:52:54 DEBUG Layer:16 - left3 created successfully
+2017-01-26 11:52:54 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 11:53:03 INFO  Layer:19 - level is medium
+2017-01-26 11:53:06 DEBUG Layer:60 - a plate is added
+2017-01-26 11:53:09 DEBUG Layer:60 - a plate is added
+2017-01-26 11:53:13 DEBUG Layer:60 - a plate is added
+2017-01-26 11:53:16 DEBUG Layer:60 - a plate is added
+2017-01-26 11:53:19 DEBUG Layer:60 - a plate is added
+2017-01-26 11:53:19 INFO  Layer:35 - a plate is catched
+2017-01-26 11:53:22 DEBUG Layer:60 - a plate is added
+2017-01-26 11:53:23 INFO  Layer:35 - a plate is catched
+2017-01-26 11:53:26 DEBUG Layer:60 - a plate is added
+2017-01-26 11:53:26 INFO  Layer:35 - a plate is catched
+2017-01-26 11:53:28 INFO  Layer:35 - a plate is catched
+2017-01-26 11:54:46 INFO  Layer:19 - level is medium
+2017-01-26 11:54:46 INFO  Layer:17 - level is easy
+2017-01-26 11:54:46 DEBUG Layer:16 - left1 created successfully
+2017-01-26 11:54:46 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 11:54:46 DEBUG Layer:16 - left2 created successfully
+2017-01-26 11:54:46 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 11:54:46 DEBUG Layer:16 - left3 created successfully
+2017-01-26 11:54:46 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 11:54:54 INFO  Layer:17 - level is easy
+2017-01-26 11:54:57 DEBUG Layer:60 - a plate is added
+2017-01-26 11:55:00 DEBUG Layer:60 - a plate is added
+2017-01-26 11:55:04 DEBUG Layer:60 - a plate is added
+2017-01-26 11:55:07 DEBUG Layer:60 - a plate is added
+2017-01-26 11:55:10 DEBUG Layer:60 - a plate is added
+2017-01-26 11:55:10 INFO  Layer:39 - a plate is catched
+2017-01-26 11:57:35 INFO  Layer:19 - level is medium
+2017-01-26 11:57:35 INFO  Layer:17 - level is easy
+2017-01-26 11:57:35 DEBUG Layer:16 - left1 created successfully
+2017-01-26 11:57:35 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 11:57:35 DEBUG Layer:16 - left2 created successfully
+2017-01-26 11:57:35 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 11:57:35 DEBUG Layer:16 - left3 created successfully
+2017-01-26 11:57:35 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 11:57:45 INFO  Layer:19 - level is medium
+2017-01-26 11:57:47 DEBUG Layer:60 - a plate is added
+2017-01-26 11:57:51 DEBUG Layer:60 - a plate is added
+2017-01-26 11:57:54 DEBUG Layer:60 - a plate is added
+2017-01-26 11:57:57 DEBUG Layer:60 - a plate is added
+2017-01-26 11:58:00 DEBUG Layer:60 - a plate is added
+2017-01-26 11:58:01 INFO  Layer:39 - a plate is catched
+2017-01-26 11:58:04 INFO  Layer:39 - a plate is catched
+2017-01-26 11:58:04 DEBUG Layer:60 - a plate is added
+2017-01-26 11:58:07 DEBUG Layer:60 - a plate is added
+2017-01-26 11:58:07 INFO  Layer:39 - a plate is catched
+2017-01-26 11:58:09 INFO  Layer:39 - a plate is catched
+2017-01-26 11:58:10 DEBUG Layer:60 - a plate is added
+2017-01-26 11:58:12 INFO  Layer:39 - a plate is catched
+2017-01-26 11:58:13 DEBUG Layer:60 - a plate is added
+2017-01-26 11:58:15 INFO  Layer:39 - a plate is catched
+2017-01-26 11:58:16 DEBUG Layer:60 - a plate is added
+2017-01-26 11:58:19 DEBUG Layer:60 - a plate is added
+2017-01-26 11:58:20 INFO  Layer:39 - a plate is catched
+2017-01-26 11:58:22 DEBUG Layer:60 - a plate is added
+2017-01-26 11:58:23 INFO  Layer:39 - a plate is catched
+2017-01-26 11:58:25 INFO  Layer:40 - a plate is catched
+2017-01-26 11:58:25 DEBUG Layer:60 - a plate is added
+2017-01-26 11:58:26 INFO  Layer:39 - a plate is catched
+2017-01-26 11:58:28 DEBUG Layer:60 - a plate is added
+2017-01-26 11:58:29 INFO  Layer:39 - a plate is catched
+2017-01-26 11:58:34 INFO  Layer:19 - level is medium
+2017-01-26 11:58:34 INFO  Layer:17 - level is easy
+2017-01-26 11:58:34 DEBUG Layer:16 - left1 created successfully
+2017-01-26 11:58:34 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 11:58:34 DEBUG Layer:16 - left2 created successfully
+2017-01-26 11:58:34 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 11:58:34 DEBUG Layer:16 - left3 created successfully
+2017-01-26 11:58:34 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 12:01:12 INFO  Layer:19 - level is medium
+2017-01-26 12:01:15 DEBUG Layer:60 - a plate is added
+2017-01-26 12:01:19 DEBUG Layer:60 - a plate is added
+2017-01-26 12:01:22 INFO  Layer:19 - level is medium
+2017-01-26 12:01:22 INFO  Layer:17 - level is easy
+2017-01-26 12:01:22 DEBUG Layer:16 - left1 created successfully
+2017-01-26 12:01:22 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 12:01:22 DEBUG Layer:16 - left2 created successfully
+2017-01-26 12:01:22 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 12:01:22 DEBUG Layer:16 - left3 created successfully
+2017-01-26 12:01:22 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 12:01:22 DEBUG Layer:60 - a plate is added
+2017-01-26 12:01:25 DEBUG Layer:60 - a plate is added
+2017-01-26 12:03:11 INFO  Layer:19 - level is medium
+2017-01-26 12:03:11 INFO  Layer:17 - level is easy
+2017-01-26 12:03:11 DEBUG Layer:16 - left1 created successfully
+2017-01-26 12:03:11 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 12:03:11 DEBUG Layer:16 - left2 created successfully
+2017-01-26 12:03:11 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 12:03:11 DEBUG Layer:16 - left3 created successfully
+2017-01-26 12:03:11 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 12:03:19 INFO  Layer:19 - level is medium
+2017-01-26 12:03:22 DEBUG Layer:60 - a plate is added
+2017-01-26 12:03:25 DEBUG Layer:60 - a plate is added
+2017-01-26 12:03:29 DEBUG Layer:60 - a plate is added
+2017-01-26 12:03:32 DEBUG Layer:60 - a plate is added
+2017-01-26 12:03:35 DEBUG Layer:60 - a plate is added
+2017-01-26 12:03:35 INFO  Layer:39 - a plate is catched
+2017-01-26 12:03:38 DEBUG Layer:60 - a plate is added
+2017-01-26 12:03:38 INFO  Layer:39 - a plate is catched
+2017-01-26 12:03:55 INFO  Layer:19 - level is medium
+2017-01-26 12:03:55 INFO  Layer:17 - level is easy
+2017-01-26 12:03:55 DEBUG Layer:16 - left1 created successfully
+2017-01-26 12:03:55 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 12:03:55 DEBUG Layer:16 - left2 created successfully
+2017-01-26 12:03:55 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 12:03:55 DEBUG Layer:16 - left3 created successfully
+2017-01-26 12:03:55 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 12:04:03 INFO  Layer:17 - level is easy
+2017-01-26 12:04:06 DEBUG Layer:60 - a plate is added
+2017-01-26 12:04:09 DEBUG Layer:60 - a plate is added
+2017-01-26 12:04:12 DEBUG Layer:60 - a plate is added
+2017-01-26 12:04:16 DEBUG Layer:60 - a plate is added
+2017-01-26 12:04:19 DEBUG Layer:60 - a plate is added
+2017-01-26 12:04:19 INFO  Layer:39 - a plate is catched
+2017-01-26 12:04:22 DEBUG Layer:60 - a plate is added
+2017-01-26 12:04:22 INFO  Layer:39 - a plate is catched
+2017-01-26 12:04:59 INFO  Layer:19 - level is medium
+2017-01-26 12:04:59 INFO  Layer:17 - level is easy
+2017-01-26 12:04:59 DEBUG Layer:16 - left1 created successfully
+2017-01-26 12:04:59 DEBUG Layer:16 - Right1 created successfully
+2017-01-26 12:04:59 DEBUG Layer:16 - left2 created successfully
+2017-01-26 12:04:59 DEBUG Layer:16 - Right2 created successfully
+2017-01-26 12:04:59 DEBUG Layer:16 - left3 created successfully
+2017-01-26 12:04:59 DEBUG Layer:16 - Right3 created successfully
+2017-01-26 12:05:10 INFO  Layer:19 - level is medium
+2017-01-26 12:05:13 DEBUG Layer:60 - a plate is added
+2017-01-26 12:05:16 DEBUG Layer:60 - a plate is added
+2017-01-26 12:05:19 DEBUG Layer:60 - a plate is added
+2017-01-26 12:05:22 DEBUG Layer:60 - a plate is added
+2017-01-26 12:05:25 INFO  Layer:35 - a plate is catched
+2017-01-26 12:05:26 DEBUG Layer:60 - a plate is added
+2017-01-26 12:05:29 DEBUG Layer:60 - a plate is added
